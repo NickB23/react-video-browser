@@ -16,7 +16,7 @@ class App extends Component {
       selectedVideo: null
     };
 
-    this.videoSearch('linus as fast as possible');
+    this.videoSearch('techquickie should you upgrade your wireless router');
   }
 
   videoSearch(term) {
